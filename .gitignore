@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# Ignore //phi folder (i.e. Personal Health Info)
+
+phi/
